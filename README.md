@@ -18,11 +18,22 @@ zahtev  ne morem neposredno urejati, kar pa postaja nujno.
 
 Bom preizkusil z uporabo experimentalnih branch v /develop
 
-1. Naredi /delovni branch v /develop : /develop/delovni
-2. Delaj v v /delovni
-3. commit v delovni
-4. ponavljaj 2. - 3.
-5. Merge /delovni v /develop 
+Imam:   
+remote/glavni (default)
+remote/delovni
 
-3. zbriši lokalni
+1. Naredi lokalni/delovni sub-branch v lokalni/develop : lokalni/develop/delovni
+
+2. Delaj v v lokalni/delovni
+3. commit v lokalni/delovni
+4. ponavljaj 2. - 3.
+5. Merge lokalni/delovni v lokalni/develop 
+6. Ponavljaj 2. - 5.
+
+7. Ko je treba, Push lokalni/delovni v remote/delovnai
+8. Lokalno lahko zbrišeš branch lokalni/delovni in tudi remote/delovni (tick v GitHub windows)
+
+9. Ko je /remote/develop zrel, naredi Merge /remote/delovni ---> /remote/glavni
+10. Ko pride čas, naredi Tag/Version
+
 
