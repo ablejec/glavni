@@ -18,3 +18,9 @@ zahtev  ne morem neposredno urejati, kar pa postaja nujno.
 
 Bom preizkusil z uporabo experimentalnih branch v /develop
 
+1. Naredi delovni branch /develop/delovni
+2. Delaj v v /delovni
+3. commit v delovni
+
+3. zbriši lokalni
+
