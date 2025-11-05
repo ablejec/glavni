@@ -25,8 +25,8 @@ remote/delovni
 1. Naredi lokalni/delovni sub-branch v lokalni/develop : lokalni/develop/delovni
 
 2. Delaj v v lokalni/delovni
-3. commit v lokalni/delovni
-4. ponavljaj 2. - 3.
+3. Commit v lokalni/delovni
+4. Ponavljaj 2. - 3.
 5. Merge lokalni/delovni v lokalni/develop 
 6. Ponavljaj 2. - 5.
 
