@@ -34,7 +34,7 @@ remote/delovni
 8. Lokalno lahko zbrišeš branch lokalni/delovni in tudi remote/delovni (tick v GitHub windows)   
 
 9. Ko je /remote/develop zrel, naredi Merge remote/delovni remote/glavni <<<< remote/delovni
-10. Naredi tudi lokalnu merge Merge lokalni/glavni <<<< lokalni/delovni ali pa Fetch origin za glavni
+10. Uredi Push/Fetch/Pull na lokalnem za /glavni
     
 11. Ko pride čas, naredi na remote Tag/Version
 
