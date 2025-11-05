@@ -13,6 +13,8 @@ Za testiranje ideje:
 ## drug pristop
 
 Izkazalo se je, da je to precej nerodno, prihaja do zmede, kam gredo spremembe po push
+Drug pomembnejši razlog je, da želim videt Issues iz NIB-SI direktorija. Pri kloniranju
+zahtev  ne morem neposredno urejati, kar pa postaja nujno. 
 
 Bom preizkusil z uporabo experimentalnih branch v /develop
 
